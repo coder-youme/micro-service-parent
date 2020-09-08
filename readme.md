@@ -1,4 +1,4 @@
-# The Parent pom of Micro Service
+# The parent pom of micro-service
 
 ### Based On 
 * Nacos Server as Config & Discover Server
